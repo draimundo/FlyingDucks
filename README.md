@@ -13,8 +13,8 @@ Additionally the system can provide:
 
 ## Files
 The main files constituting the submission are the following:
-- [short report]()
-- [flow json]() which requires:
+- [short report](https://github.com/draimundo/FlyingDucks/blob/master/short-report.md)
+- [flow json](https://github.com/draimundo/FlyingDucks/blob/master/flows.json) which requires:
   - [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard);
   - [https://flows.nodered.org/node/node-red-contrib-web-worldmap](https://flows.nodered.org/node/node-red-contrib-web-worldmap).
   
