@@ -63,6 +63,7 @@ In the example picture a balloon is illustrated which was actually prototyped as
 To estimate the weight of the balloon the weight of a 16gramm CO2 cartridge was used (~60 gram). Since the helium is 10 times lighter the full cartridge will weigh about 50 gram. Furthermore balloon is estimated to weigh 50 grams.
 
 Overall the total weight is shown in the following table:
+
 | Part  |      weight     |
 |----------|:-------------:|
 | helium & cartridge |  50g
@@ -137,6 +138,7 @@ Unlike the deployed components, the drones are chosen for their performance (als
 
 
 As an example, the specs of a high-performance multicopter from Digital Eagle[^de]:
+
 | SK-62 Hexacopter Security  |          |
 |----------|:-------------:|
 | Cruising speed |  5-10 m/s (>18km/h)
@@ -146,6 +148,7 @@ As an example, the specs of a high-performance multicopter from Digital Eagle[^d
 | Year | 2018
 
 Another possibility would be to use a fixed-wing as the ones developped by wingcopter. The specification of the Wingcopter 178 Heavy Lift [^wingcopter] are shown below.
+
 | Wingcopter 178 Heavy Lift  |          |
 |----------|:-------------:|
 | Max speed hover mode |  50km/h
